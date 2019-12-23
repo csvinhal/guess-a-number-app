@@ -103,11 +103,10 @@ const styles = StyleSheet.create({
   },
   listContainer: {
     flex: 1,
-    width: "80%"
+    width: "60%"
   },
   list: {
     flexGrow: 1,
-    alignItems: "center",
     justifyContent: "flex-end"
   },
   listItem: {
@@ -118,7 +117,7 @@ const styles = StyleSheet.create({
     backgroundColor: "white",
     flexDirection: "row",
     justifyContent: "space-between",
-    width: "60%"
+    width: "100%"
   }
 });
 
